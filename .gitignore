@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Large downloads and intermediate runs (never commit these)
+data/
+*.trec
+tests/fixtures/out/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+#pdfs and ppts
+IR Project Plan When Better Retrieval Misleads the LLM.pdf
+IT550 Proposal Distractors in RAG.pptx

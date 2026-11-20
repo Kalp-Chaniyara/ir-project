@@ -1,0 +1,3 @@
+# Only for the machine that runs BM25 (needs Java 21 installed first).
+-r requirements.txt
+pyserini==2.4.0
