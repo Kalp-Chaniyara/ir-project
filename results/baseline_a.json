@@ -1,0 +1,21 @@
+{
+  "ours": {
+    "top20": 62.94,
+    "top100": 78.25
+  },
+  "n_questions": 3610,
+  "reference": {
+    "DPR paper (Karpukhin et al., 2020)": {
+      "top20": 59.1,
+      "top100": 73.7
+    },
+    "Pyserini documented replication": {
+      "top20": 62.99,
+      "top100": 78.23
+    }
+  },
+  "difference_vs_pyserini": {
+    "top20": -0.05,
+    "top100": 0.02
+  }
+}
