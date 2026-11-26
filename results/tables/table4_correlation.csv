@@ -1,0 +1,6 @@
+,ours (pooled),ours (per question),paper (Table 3),pooled - paper,per question - paper
+nDCG,0.464,0.535,0.458,0.006,0.077
+MRR,0.465,0.541,0.452,0.013,0.089
+Precision,0.444,0.536,0.482,-0.038,0.054
+Hits,0.442,0.529,0.411,0.031,0.118
+UDCG,0.509,0.524,0.536,-0.027,-0.012

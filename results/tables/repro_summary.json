@@ -1,0 +1,48 @@
+{
+  "table4": {
+    "ours (pooled)": {
+      "nDCG": 0.4641,
+      "MRR": 0.4647,
+      "Precision": 0.4437,
+      "Hits": 0.4421,
+      "UDCG": 0.5094
+    },
+    "ours (per question)": {
+      "nDCG": 0.5347,
+      "MRR": 0.5406,
+      "Precision": 0.5355,
+      "Hits": 0.5287,
+      "UDCG": 0.5239
+    },
+    "paper (Table 3)": {
+      "nDCG": 0.458,
+      "MRR": 0.452,
+      "Precision": 0.482,
+      "Hits": 0.411,
+      "UDCG": 0.536
+    },
+    "pooled - paper": {
+      "nDCG": 0.0061,
+      "MRR": 0.0127,
+      "Precision": -0.0383,
+      "Hits": 0.0311,
+      "UDCG": -0.0266
+    },
+    "per question - paper": {
+      "nDCG": 0.0767,
+      "MRR": 0.0886,
+      "Precision": 0.0535,
+      "Hits": 0.1177,
+      "UDCG": -0.0121
+    }
+  },
+  "questions_used": 173,
+  "skipped": 27,
+  "pnr_check": {
+    "pairs": 1000,
+    "spearman": 0.9474549369912176,
+    "pearson": 0.9059513255130824,
+    "mean_abs_diff": 0.07297630207367857,
+    "hard_distractor_agreement": 0.9030612244897959
+  }
+}
